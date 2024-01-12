@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\bin\Debug\net6.0\05.SuppliesforSchool.exe
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\bin\Debug\net6.0\05.SuppliesforSchool.deps.json
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\bin\Debug\net6.0\05.SuppliesforSchool.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\bin\Debug\net6.0\05.SuppliesforSchool.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\bin\Debug\net6.0\05.SuppliesforSchool.pdb
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\refint\05.SuppliesforSchool.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.pdb
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\05.SuppliesforSchool.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-exercise\05.SuppliesforSchool\obj\Debug\net6.0\ref\05.SuppliesforSchool.dll
