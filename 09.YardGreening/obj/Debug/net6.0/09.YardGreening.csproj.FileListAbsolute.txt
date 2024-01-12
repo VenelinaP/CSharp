@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.exe
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.deps.json
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\bin\Debug\net6.0\09.YardGreening.pdb
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\refint\09.YardGreening.dll
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.pdb
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\09.YardGreening.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\01.FirstStepsCoding-lab\09.YardGreening\obj\Debug\net6.0\ref\09.YardGreening.dll
