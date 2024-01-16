@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\bin\Debug\net6.0\05.Number100-200.exe
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\bin\Debug\net6.0\05.Number100-200.deps.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\bin\Debug\net6.0\05.Number100-200.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\bin\Debug\net6.0\05.Number100-200.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\bin\Debug\net6.0\05.Number100-200.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\refint\05.Number100-200.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\05.Number100-200.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\05.Number100-200\obj\Debug\net6.0\ref\05.Number100-200.dll

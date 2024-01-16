@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.exe
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.deps.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\bin\Debug\net6.0\03.EvenOrOdd.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\refint\03.EvenOrOdd.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\03.EvenOrOdd.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\03.EvenOrOdd\obj\Debug\net6.0\ref\03.EvenOrOdd.dll

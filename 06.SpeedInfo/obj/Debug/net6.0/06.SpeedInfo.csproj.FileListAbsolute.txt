@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.exe
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.deps.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\refint\06.SpeedInfo.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-lab\06.SpeedInfo\obj\Debug\net6.0\ref\06.SpeedInfo.dll
