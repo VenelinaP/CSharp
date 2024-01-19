@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.exe
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.deps.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\refint\07.Shopping.dll
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.pdb
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\02.ConditionalStatements-exercise\07.Shopping\obj\Debug\net6.0\ref\07.Shopping.dll
