@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.exe
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.deps.json
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.pdb
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\refint\07.HotelRoom.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.pdb
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\07.HotelRoom\obj\Debug\net6.0\ref\07.HotelRoom.dll

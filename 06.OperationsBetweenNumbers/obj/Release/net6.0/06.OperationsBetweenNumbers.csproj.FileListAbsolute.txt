@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\bin\Release\net6.0\06.OperationsBetweenNumbers.exe
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\bin\Release\net6.0\06.OperationsBetweenNumbers.deps.json
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\bin\Release\net6.0\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\bin\Release\net6.0\06.OperationsBetweenNumbers.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\bin\Release\net6.0\06.OperationsBetweenNumbers.pdb
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\refint\06.OperationsBetweenNumbers.dll
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.pdb
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\03.ConditionalStatementsAdvanced-еxercise\06.OperationsBetweenNumbers\obj\Release\net6.0\ref\06.OperationsBetweenNumbers.dll
