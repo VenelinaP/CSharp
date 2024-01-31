@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pjxit4VLID7loSAhOm0mN631viZulQcpGCGuZZz0qP9o+SgPUdlDMOCl50Xl7i+mrBB7L+qtaoQLXFu0wAXEHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\source\\PB C#\\04.ForLoop-exercise\\08.TennisRanklist\\08.TennisRanklist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

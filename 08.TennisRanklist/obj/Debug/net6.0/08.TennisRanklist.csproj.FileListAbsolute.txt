@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\bin\Debug\net6.0\08.TennisRanklist.exe
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\bin\Debug\net6.0\08.TennisRanklist.deps.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\bin\Debug\net6.0\08.TennisRanklist.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\bin\Debug\net6.0\08.TennisRanklist.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\bin\Debug\net6.0\08.TennisRanklist.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\refint\08.TennisRanklist.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\08.TennisRanklist.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\08.TennisRanklist\obj\Debug\net6.0\ref\08.TennisRanklist.dll
