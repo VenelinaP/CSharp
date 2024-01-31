@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWdnqL0mbRwaJbt7j4x6nmBWAB+i8C2aw40+HVUosRfx+TDH8CFajjnSiu0AelefjALJF7QnRj4lV2U4jrPmDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\source\\PB C#\\04.ForLoop-exercise\\04.CleverLily\\04.CleverLily.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

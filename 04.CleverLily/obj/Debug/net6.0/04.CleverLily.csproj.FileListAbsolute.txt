@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.exe
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.deps.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\refint\04.CleverLily.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\04.CleverLily\obj\Debug\net6.0\ref\04.CleverLily.dll

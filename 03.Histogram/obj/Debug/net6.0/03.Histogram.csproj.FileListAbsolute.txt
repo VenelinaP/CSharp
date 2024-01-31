@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.exe
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.deps.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\refint\03.Histogram.dll
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.pdb
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\04.ForLoop-exercise\03.Histogram\obj\Debug\net6.0\ref\03.Histogram.dll

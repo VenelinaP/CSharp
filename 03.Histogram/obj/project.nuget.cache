@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DICjZh/eHi6WPUu4/ReAjZvhfBmaocOZ15nGAoS4B5nl8IW7SYKfK90/PK7lD752Zb8tvDZa2V/ARoilfU1x0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\source\\PB C#\\04.ForLoop-exercise\\03.Histogram\\03.Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
