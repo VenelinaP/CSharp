@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CbmExqKaDnbGIFIV238oQYSIxvMDvNakZgY24d410fto7FTtVl6vQJpBMSSyNksCKiBOXLPzDtbzxJWkvM0tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\source\\PB C#\\05.WhileLoop-lab\\04.Sequence2k+1\\04.Sequence2k+1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
