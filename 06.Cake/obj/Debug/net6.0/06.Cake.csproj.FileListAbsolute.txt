@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\bin\Debug\net6.0\06.Cake.exe
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\bin\Debug\net6.0\06.Cake.deps.json
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\bin\Debug\net6.0\06.Cake.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\bin\Debug\net6.0\06.Cake.dll
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\bin\Debug\net6.0\06.Cake.pdb
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.dll
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\refint\06.Cake.dll
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.pdb
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\06.Cake.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\05.WhileLoop-еxercise\06.Cake\obj\Debug\net6.0\ref\06.Cake.dll
