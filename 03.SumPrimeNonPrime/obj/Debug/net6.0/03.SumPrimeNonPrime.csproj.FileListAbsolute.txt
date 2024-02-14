@@ -1,0 +1,14 @@
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.exe
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.deps.json
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.runtimeconfig.json
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\refint\03.SumPrimeNonPrime.dll
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\Venelina\source\PB C#\06.NestedLoops-exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\ref\03.SumPrimeNonPrime.dll

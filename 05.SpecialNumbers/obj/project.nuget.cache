@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWh/hkvdUU0+5djeP157ENTwAHnX5bo7S8SwZW2BjGQwKP3fGKzPRehiDguPRi7Cz/tR6XrRJiMwxFop6SylNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\source\\PB C#\\06.NestedLoops-exercise\\05.SpecialNumbers\\05.SpecialNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
